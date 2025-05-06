@@ -1,0 +1,12 @@
+[
+	{
+		"title": "Begin",
+		"tags": "",
+		"body": "<<Dog>>\nGRRR...\n<<Cat>>\nWho are you?\nWhat do you want\n<<Dog>>\nYou don't need to know. A dead cat needs no introduciton\n<<Cat>>\nOh? why have you come after me\n<<Dog>>\nYour brother says hello",
+		"position": {
+			"x": 431,
+			"y": 270
+		},
+		"colorID": 0
+	}
+]
